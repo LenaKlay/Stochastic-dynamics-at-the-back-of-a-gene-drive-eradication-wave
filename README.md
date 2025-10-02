@@ -10,7 +10,7 @@ This code was written by Léna Kläy. The project was carried out in collaborati
 
 ## Abstract of the article
 
-...
+Gene drive alleles bias their own inheritance to offspring. They can fix in a wild-type population in spite of a fitness cost, and even lead to the eradication of the target population if the fitness cost is high. However, this outcome may be prevented or delayed if areas previously cleared by the drive are recolonised by wild-type individuals. Here, we investigate the conditions under which these stochastic wild-type recolonisation events are likely and when they are unlikely to occur in one spatial dimension. More precisely, we examine the conditions ensuring that the last individual carrying a wild-type allele is surrounded by a large enough number of drive homozygous individuals, resulting in a very low chance of wild-type recolonisation. To do so, we make a deterministic approximation of the distribution of drive alleles within the wave, and we split the distribution of wild-type alleles into a deterministic part and a stochastic part. Our analytical and numerical results suggest that the probability of wild-type recolonisation events increases with lower fitness of drive individuals and with smaller local carrying capacity. Numerical simulations show that these results extend to two spatial dimensions. The role of the migration rate however, is less clear but has a lower impact. We further demonstrate that, in the event of wild-type recolonization, the probability of subsequent drive reinvasion decreases with smaller values of the intrinsic growth rate of the population. Overall, our study paves the way for further analysis of wild-type recolonisation at the back of eradication traveling waves.
 
 ## Contents
 
